@@ -53,6 +53,12 @@ var questions = [{
   answer: '10'
 },
 
+{
+  question: ' How many duration for this course?',
+  answer: 'six month'
+},
+
+
 ]
 
 for (var i = 0; i < questions.length; i++) {
